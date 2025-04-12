@@ -1,0 +1,42 @@
+Database connection successful (get_history)
+History fetched successfully
+Database connection successful (get_history)
+History fetched successfully
+Database connection successful
+Received POST request
+POST data: Array
+(
+    [save_calculation] => true
+    [btc_bought] => 0.00004309324771368855
+    [tzs_value_2030_mid] => 89289.20926276268
+    [tzs_gain_mid] => 79289.20926276268
+    [tzs_value_2030_opt] => 127556.01323251812
+    [tzs_gain_opt] => 117556.01323251812
+    [tzs_value_2030_con] => 63778.00661625906
+    [tzs_gain_con] => 53778.00661625906
+    [tzs_value_2030_avg] => 93541.07637051328
+    [tzs_gain_avg] => 83541.07637051328
+)
+
+Parsed values: Array
+(
+    [btc_bought] => 4.3093247713689E-5
+    [tzs_value_2030_mid] => 89289.209262763
+    [tzs_gain_mid] => 79289.209262763
+    [tzs_value_2030_opt] => 127556.01323252
+    [tzs_gain_opt] => 117556.01323252
+    [tzs_value_2030_con] => 63778.006616259
+    [tzs_gain_con] => 53778.006616259
+    [tzs_value_2030_avg] => 93541.076370513
+    [tzs_gain_avg] => 83541.076370513
+)
+
+Data inserted successfully
+Database connection successful (get_history)
+History fetched successfully
+Database connection successful (get_history)
+History fetched successfully
+Database connection successful (get_history)
+History fetched successfully
+Database connection successful (get_history)
+History fetched successfully
